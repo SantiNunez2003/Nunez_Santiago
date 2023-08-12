@@ -8,4 +8,4 @@ la n es Ñ
 [Silicon Misiones](https://siliconmisiones.gob.ar/)
 
 Autor: Santiago Nuñez
-Descripción: Este repositorio fue creado con fines académicos. Contiene los ejercicios resueltos del Módulo 1.
+Descripción: Este repositorio fue creado con fines académicos. Contiene los ejercicios resueltos del Curso Full Stack.
