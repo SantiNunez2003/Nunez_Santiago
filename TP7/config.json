@@ -1,0 +1,12 @@
+{
+    "servidor": {
+        "puerto": 8080
+    },
+
+    "Basedatos": {
+        "host" : "localhost",
+        "user" : "root",
+        "password" : "santiago1234",
+        "database" : "backend"
+    }
+}
